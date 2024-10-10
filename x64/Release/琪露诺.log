@@ -1,0 +1,11 @@
+﻿  源.cpp
+C:\Users\chiyu\source\repos\琪露诺\琪露诺\源.cpp(127,20): warning C4002: 类函数宏的调用“_T”参数过多
+C:\Users\chiyu\source\repos\琪露诺\琪露诺\源.cpp(130,26): warning C4002: 类函数宏的调用“_T”参数过多
+C:\Users\chiyu\source\repos\琪露诺\琪露诺\源.cpp(131,26): warning C4002: 类函数宏的调用“_T”参数过多
+C:\Users\chiyu\source\repos\琪露诺\琪露诺\源.cpp(166,25): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\chiyu\source\repos\琪露诺\琪露诺\源.cpp(244,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  琪露诺.vcxproj -> C:\Users\chiyu\source\repos\琪露诺\x64\Release\琪露诺.exe
